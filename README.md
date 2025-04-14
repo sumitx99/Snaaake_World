@@ -2,6 +2,9 @@
 
 A simple implementation of the classic **Snake Game** using **C++**. The game includes features like **pause/resume**, **difficulty levels**, **sound effects** when eating fruit, and **saving the high score** to a file.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92031837-4aeb-4882-8f0d-9999a5f73532" alt="giphy">
+</p>
 
 
 ## Features
@@ -26,8 +29,10 @@ A simple implementation of the classic **Snake Game** using **C++**. The game in
   - On **Linux/Mac**, you likely have `g++` installed by default.
 
 ## Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/857f3e7d-01f6-492d-887d-b6625810137a" alt="Screenshot 2025-04-14 123432">
+</p>
 
-![Screenshot 2025-04-14 123432](https://github.com/user-attachments/assets/857f3e7d-01f6-492d-887d-b6625810137a)
 
 ### High Score
 - The game saves the high score in a file named highscore.txt in the same directory.
