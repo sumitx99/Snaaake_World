@@ -6,7 +6,6 @@ A simple implementation of the classic **Snake Game** using **C++**. The game in
   <img src="https://github.com/user-attachments/assets/92031837-4aeb-4882-8f0d-9999a5f73532" alt="giphy">
 </p>
 
-
 ## Features
 
 - **Pause/Resume**: Press `P` to pause and resume the game.
