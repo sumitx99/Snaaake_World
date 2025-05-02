@@ -1,4 +1,4 @@
-# Snake Game in C++
+# Snake Game in C++ 🐍
 
 A simple implementation of the classic **Snake Game** using **C++**. The game includes features like **pause/resume**, **difficulty levels**, **sound effects** when eating fruit, and **saving the high score** to a file.
 
